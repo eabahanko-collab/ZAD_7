@@ -34,9 +34,9 @@ Features
 
 ==Project Structure==
 
-├── main.py          # Entry point, contains GUI loop and event handling
+├── README.md          # Entry point, contains GUI loop and event handling
 
-└── README.md        # This file
+└── main.py        # This file
 
 ===Usage===
 
